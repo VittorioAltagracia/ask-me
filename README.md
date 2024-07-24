@@ -1,24 +1,8 @@
-# Nuxt 3 Minimal Starter
+# Ask-Me
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+An work in progres MVP of a new app idea. More details to follow.
 
 ## Setup
-
-Make sure to install the dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
 
 ## Development Server
 
@@ -71,5 +55,3 @@ yarn preview
 # bun
 bun run preview
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
